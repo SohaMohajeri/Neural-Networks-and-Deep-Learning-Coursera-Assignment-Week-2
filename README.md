@@ -1,7 +1,6 @@
 <div align="center"> 
 
-# Coursera Assignment 2: Logistic Regression with a Neural Network mindset
-
+# Neural Networks and Deep Learning: Coursera Assignment 2
 </div>
 
 
@@ -11,10 +10,7 @@
 <br />
 <div align="justify">
 
-Neural Networks and Deep Learning
 
-Week 2
-
-Logistic Regression with a Neural Network mindset
+Week 2: Logistic Regression with a Neural Network mindset
 
 </div>
