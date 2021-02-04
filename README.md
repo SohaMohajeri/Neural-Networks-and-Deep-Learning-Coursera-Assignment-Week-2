@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Coursera-Assignment-Logistic_Regression_with_a_Neural_Network_mindset
+# Coursera Assignment 2: Logistic Regression with a Neural Network mindset
 
 </div>
 
