@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/69224996/106861512-f78d2d80-6719-11eb-865a-b78cf60b8cf1.png" >
+<img src="https://user-images.githubusercontent.com/69224996/106871955-e991d980-6726-11eb-8523-f81f5333c61e.png)" >
 </div>
 <br />
 <div align="justify">
