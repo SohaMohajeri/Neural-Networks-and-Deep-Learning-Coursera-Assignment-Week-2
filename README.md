@@ -1,7 +1,6 @@
 <div align="center"> 
 
 # Neural Networks and Deep Learning 
-</div>
 
 <div align="center"> 
 
@@ -9,6 +8,6 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/69224996/97274426-e024d700-17f1-11eb-8dab-f56d0c2ade72.png" >
+<img src="https://user-images.githubusercontent.com/69224996/106872984-0da1ea80-6728-11eb-987d-d7d2d2944dcc.png" >
 </div>
 <br />
