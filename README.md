@@ -1,1 +1,1 @@
-# Coursera-Assignment-Logistic_Regression_with_a_Neural_Network_mindset_v6a
+# Coursera-Assignment-Logistic_Regression_with_a_Neural_Network_mindset
