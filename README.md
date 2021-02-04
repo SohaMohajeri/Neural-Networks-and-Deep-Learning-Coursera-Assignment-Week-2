@@ -1,7 +1,6 @@
 <div align="center"> 
 
 # Neural Networks and Deep Learning 
-Coursera Assignment 2
 </div>
 
 <div align="center"> 
